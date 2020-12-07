@@ -1,24 +1,51 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 概要
 
-Things you may want to cover:
 
-* Ruby version
+## コンセプト
 
-* System dependencies
 
-* Configuration
+## バージョン
+Ruby 2.7.2
+Rails 6.0.3
 
-* Database creation
+## 機能一覧
+- [ ] ログイン機能
+- [ ] ユーザー登録機能
+- [ ] パスワード再設定機能
+- [ ] フォロー機能
+- [ ] 検索機能
 
-* Database initialization
+##### メイク講座
+- [ ] メイク講座作成機能
+- [ ] メイク講座編集機能
+- [ ] メイク講座削除機能
+- [ ] メイク講座参加機能
+- [ ] メイク講座キャンセル機能
+- [ ] コメント投稿機能
+- [ ] コメント削除機能
+- [ ] コメント編集機能
 
-* How to run the test suite
+##### メイク依頼
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## カタログ設計
 
-* ...
+## テーブル定義
+
+## ER図
+
+## 画面遷移図
+
+## 画面ワイヤーフレーム
+
+
+## 使用予定Gem
+* carrierwave
+* mini_magick
+* devise
+* kaminari
+* ransack
+* fog-aws
+* pay.jp
