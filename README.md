@@ -37,6 +37,7 @@ Rails 6.0.3
 ## ER図
 
 ## 画面遷移図
+https://github.com/penpen09/CosmeTip/issues/url
 
 ## 画面ワイヤーフレーム
 
