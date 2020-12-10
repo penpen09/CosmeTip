@@ -38,8 +38,7 @@ Rails 6.0.3
 
 ## 画面遷移図
 
-<img width="1440" alt="スクリーンショット 2020-12-08 17 01 35" src="https://user-images.githubusercontent.com/61731127/101456281-2a63b100-3977-11eb-8800-fa6a89b2701e.png">
-
+![image](https://user-images.githubusercontent.com/61731127/101749728-6a5e9b80-3b11-11eb-83c3-98213791aee1.png)
 
 ## 画面ワイヤーフレーム
 
